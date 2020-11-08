@@ -6,7 +6,7 @@ public class Menu {
 
     public static void main(String[] args) {
         //Palabras que el sistema puede escoger aleatoriamente
-        String [] palabras = {"Fantasia", "Experta", "Esposa"};
+        String [] palabras = {"perro", "mono", "gato"};
         
         //Selecionar palabra de manera aleatoria
         Random a = new Random();
